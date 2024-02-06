@@ -1,7 +1,6 @@
 import style from "../../Styles/HawaainMan/ServiceDetail.module.css";
 import star from"../../Images/Star.png"
 import HawaiaanMan from "../../Images/HawaiaanMan.png"
-import serviceDetails from "../../Images/servicedetails.png"
 import star1 from "../../Images/star 1.png"
 const ServicesDetail=()=>{
     return<div className={style.outerbody}>
