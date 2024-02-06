@@ -1,0 +1,51 @@
+.outerContainer{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.details{
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+    gap:20px;
+    padding: 80px
+}
+.heading{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap:10px;
+}
+.heading p{
+font-family: Proxima Nova A;
+font-size: 44px;
+font-weight: 600;
+line-height: 61px;
+letter-spacing: 0px;
+text-align: left;
+
+}
+.details div{
+padding:20px;
+}
+.details div:nth-child(2){
+    padding:10px;
+}
+.button{
+background-color: #8800EC;
+width: 274px;
+height: 56px;
+border-radius: 4px;
+font-family: Proxima Nova A;
+font-size: 18px;
+font-weight: 600;
+line-height: 20px;
+letter-spacing: 2px;
+text-align: center;
+color: #FFFFFF;
+
+
+
+
+}

@@ -1,0 +1,64 @@
+.outerbody{
+   
+    padding: 70px 80px 0px 37px;
+}
+.heading{
+    display:flex;
+    align-items: center;
+    justify-content: flex-start;
+    gap:5px;
+    padding:10px;
+}
+.heading h4{
+    font-family: Proxima Nova A;
+    font-size: 44px;
+    font-weight: 600;
+    line-height: 61px;
+    letter-spacing: 0px;
+    text-align: center;
+}
+.imagesection{
+    display: flex;
+   gap:30px;
+}
+.imagesection>div{
+    background-color:#FCF8FF;
+    padding: 50px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    margin:50px 0px;
+    border-radius: 10px;
+}
+.point>div{
+    display: flex;
+    flex-direction: row;
+    gap:10px;
+    align-items: center;
+}
+.point>div>h5{
+font-family: Proxima Nova A;
+font-size: 28px;
+font-weight: 600;
+line-height: 34px;
+letter-spacing: 0em;
+text-align: left;
+color: #2A2A2A;
+
+}
+.point>p{
+    margin-top: 10px;
+    padding:0 35px;
+    font-family: Proxima Nova A;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 24px;
+    letter-spacing: 0em;
+    text-align: left;
+
+}
+.point>p>span{
+    color:#8800EC;
+}
+
+
