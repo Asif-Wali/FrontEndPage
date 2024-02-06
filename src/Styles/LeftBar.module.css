@@ -1,0 +1,21 @@
+.LeftNav{
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    gap: 16px;
+}
+.LeftNav img{
+    width: 48px;
+    height: 32px;
+
+}
+.NavMenu{
+display:flex;
+align-items: center;
+justify-content: center;
+gap:24px;
+font-size: 14px;
+font-weight: 600;
+line-height: 20px;
+
+}

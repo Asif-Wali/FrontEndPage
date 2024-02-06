@@ -1,0 +1,42 @@
+.RightBar{
+display: flex;
+align-items: center;
+justify-content: center;
+gap: 24px;
+}
+
+.inputContainer{
+    padding: 8px, 12px, 8px, 12px;
+}
+
+
+.input{
+    width: 258px;
+    height: 40px;
+    border-radius: 4px;
+    padding: 8px, 15px, 8px, 12px;
+    background-color: #2121211F;
+    
+font-family: Proxima Nova A;
+font-size: 14px;
+font-weight: 400;
+line-height: 20px;
+letter-spacing: 0px;
+text-align: left;
+
+}
+
+.location{
+display:flex;
+align-items: center;
+justify-content: center;
+gap: 5px;
+}
+.location p{
+    font-family: Proxima Nova A;
+    font-size: 14px;
+    font-weight: 600;
+    line-height: 20px;
+    text-align: left;   
+}
+
